@@ -7,10 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jogo da velha</title>
     <link rel="stylesheet" href="./style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
 </head>
 
 <body>
-    <div class="board circle">
+    <div class="board x">
         <div class="cell x" data-cell></div>
         <div class="cell circle" data-cell></div>
         <div class="cell" data-cell></div>
@@ -23,8 +25,8 @@
     </div>
 
     <div class="winning-message" data-winning-message>
-        <p>X Venceu!</p>
-        <button>Reiniciar</button>
+        <p class="winning-message-text">X Venceu!</p>
+        <button class="winning-message-button">Reiniciar</button>
     </div>
     <script src="./script.js"></script>
 </body>
