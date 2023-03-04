@@ -5,9 +5,18 @@
 }
 
 body {
+    display: flex;
+    justify-content: center;
     height: 100vh;
     width: 100vw;
     background: linear-gradient(45deg, #d381e7, #8781e7);
+}
+
+
+.title{
+    font-family: 'Fredoka One', cursive;
+    color: white;
+    font-size: 2.5rem;
 }
 
 .board {
@@ -130,11 +139,20 @@ body {
     padding: 10px 15px;
     cursor: pointer;
     border-radius: 10px;
-    margin-top: 16px;
+    margin-top: 32px;
     color: white;
     border: 4px dotted white;
     font-family: 'Fredoka One', cursive;
+    transition: 200ms;
+}
 
+.winning-message-button:hover{    background: white;
+    background-color: white;
+    background-image: linear-gradient(45deg, #d381e7, #8781e7);;
+    color: black;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    border: 4px dotted #8781e7;
 }
 
 .winning-message-text{
@@ -142,4 +160,8 @@ body {
     font-size: 5rem;
     font-family: 'Fredoka One', cursive;
 
+}
+
+.show-winning-message{
+    display: flex;
 }
