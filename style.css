@@ -16,6 +16,7 @@ body {
 
 
 .title {
+    font-weight: 50;
     text-align: center;
     font-family: 'Fredoka One', cursive;
     color: white;
