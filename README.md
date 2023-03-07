@@ -12,7 +12,7 @@
 <p align="justify">Projeto de um jogo da velha que permite a participação de 2 jogadores, um como o jogador X e outro como o jogador O. O principal objetivo desse jogo é determinar os casos de vitória e empate e informar isso dinamicamente ao usuário. </p>
 
 <h2>Link do Projeto</h2>
-Chame um amigo e divirta-se <a href="jogo-da-velha-7pl2270xp-brunalmucelli.vercel.app" target="_blank">aqui</a>
+Chame um amigo e divirta-se <a href="https://jogo-da-velha-7pl2270xp-brunalmucelli.vercel.app" target="_blank">aqui</a>
 
 
 <h2>Tecnologias utilizadas</h2>
