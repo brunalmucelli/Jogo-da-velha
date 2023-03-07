@@ -12,7 +12,7 @@
 <p align="justify">Projeto de um jogo da velha que permite a participação de 2 jogadores, um como o jogador X e outro como o jogador O. O principal objetivo desse jogo é determinar os casos de vitória e empate e informar isso dinamicamente ao usuário. </p>
 
 <h2>Link do Projeto</h2>
-Chame um amigo e divirta-se <a href="jogo-da-velha-binwoj5ja-brunalmucelli.vercel.app" target="_blank">aqui</a>
+Chame um amigo e divirta-se <a href="jogo-da-velha-7pl2270xp-brunalmucelli.vercel.app" target="_blank">aqui</a>
 
 
 <h2>Tecnologias utilizadas</h2>
@@ -25,28 +25,27 @@ Chame um amigo e divirta-se <a href="jogo-da-velha-binwoj5ja-brunalmucelli.verce
 <ul>
   <li>HTML
     <ul>
-      <li>Item1</li>
-      <li>Item1</li>
-      <li>Item1</li>
-      <li>Item1</li>
+      <li>Estrutura HTML5</li>
+      <li>Nomeação e estruturação de classes</li>
+      <li>Utilização de background e fontes externas</li>
+      <li>Utilização de data-attributes</li>
     </ul>
   </li>
   
   <li>CSS
     <ul>
-      <li>Item1</li>
-      <li>Item1</li>
-      <li>Item1</li>
-      <li>Item1</li>
+      <li>Utilização layout grid</li>
+      <li>Utilização de Flexbox</li>
+      <li>Estilização de fundos e fontes com degradê</li>
+      <li>Utilização de pseudo-classes</li>
     </ul>
   </li>
   
   <li>JavaScript
     <ul>
-      <li>Item1</li>
-      <li>Item1</li>
-      <li>Item1</li>
-      <li>Item1</li>
+      <li>Simplificação do código com funções</li>
+      <li>Seleção de elementos utilizando o DOM</li>
+      <li>Utilização de métodos de array</li>
     </ul>
   </li>
 <ul>
