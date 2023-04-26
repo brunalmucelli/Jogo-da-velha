@@ -17,7 +17,11 @@ Chame um amigo e divirta-se <a href="https://jogo-da-velha-7pl2270xp-brunalmucel
 
 <h2>Tecnologias utilizadas</h2>
 
-<img src="https://skills.thijs.gg/icons?i=html,css,js" alt="Ícone HTML, CSS e JS">
+<div>
+<img src="https://img.icons8.com/color/64/null/html-5--v1.png" alt="ícone HTML"/>
+<img src="https://img.icons8.com/color/64/null/css3.png" alt="ícone CSS"/>
+<img src="https://img.icons8.com/color/64/null/javascript--v1.png" alt="ícone JavaScript"/>
+</div>
 
 <h2>Objetivos do projeto - Educacional</h2>
 <p>Desenvolvi esse projeto visando revisar conceitos muito importantes de HTML, CSS e JavaScript e os pontos mais importantes abordados foram foram:</p>
